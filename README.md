@@ -9,9 +9,9 @@ This repository contains the **first complete implementation** of the (p,q)-gamm
 
 This code accompanies the paper:
 
-> **"The (p,q)-calculus is q-calculus in disguise: A complete reduction exposing a pseudo‑generalization"**  
-> *Authors: [Your Name(s)]*  
-> *Journal: [Nature Communications / Philosophical Transactions A] (under review)*
+> **"Occam’s Razor in Quantum Calculus: A Complete Reduction of (p,q)-Calculus to q-Calculus"**  
+> *Authors: Mehran Ghaderi, Shahram Rezapour*  
+> *Journal: Nature Communications (under review)*
 
 ## 🚀 Features
 
