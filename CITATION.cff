@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as below."
+title: "pq-calculus-reduction: Python codes for proving redundancy of parameter p in (p,q)-calculus"
+version: 1.0.0
+doi: 10.5281/zenodo.19687269
+date-released: 2026-04-22
+url: "https://github.com/ghaderimehr-boop/pq-calculus-reduction"
+license: MIT
+
+authors:
+  - family-names: "Mehran"
+    given-names: "Ghaderi"
+
+type: software
+keywords:
+  - q-calculus
+  - fractional calculus
+  - quantum calculus
+  - (p,q)-calculus
+  - special functions
+  - gamma function
+  - Mittag-Leffler function
+  - parameter redundancy
+  - Occam's Razor
+
+repository-code: "https://github.com/ghaderimehr-boop/pq-calculus-reduction"
+abstract: "This repository contains the first complete implementation of the (p,q)-gamma function, (p,q)-Mittag-Leffler function, and associated fractional operators. It provides numerical verification for the theoretical result that the two-parameter (p,q)-calculus is isomorphic to the classical one-parameter q-calculus with effective parameter r = q/p. The parameter p is proven to be redundant."
