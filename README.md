@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26948580/README.md)
 # (p,q)-Calculus Reduction Project
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19687269.svg)](https://doi.org/10.5281/zenodo.19687269)
 
 This repository contains the **first complete implementation** of the (p,q)-gamma function, (p,q)-Mittag-Leffler function, and associated fractional operators. It provides numerical verification for the theoretical result that the two-parameter (p,q)-calculus is **isomorphic** to the classical one-parameter q-calculus with effective parameter \( r = q/p \). The parameter \( p \) is proven to be redundant.
 
