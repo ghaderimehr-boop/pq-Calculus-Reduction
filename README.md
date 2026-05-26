@@ -11,7 +11,7 @@ This code accompanies the paper:
 
 > **"Occam’s Razor in Quantum Calculus: A Complete Reduction of (p,q)-Calculus to q-Calculus"**  
 > *Authors: Mehran Ghaderi, Shahram Rezapour*  
-> *Journal: Communications in Nonlinear Science and Numerical Simulation (Submitted)*
+> *Journal: Numerical Algorithms (Submitted)*
 
 ## 🚀 Features
 
