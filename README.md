@@ -9,7 +9,7 @@ This repository contains the **first complete implementation** of the (p,q)-gamm
 
 This code accompanies the paper:
 
-> **"Occam’s Razor in Quantum Calculus: A Complete Reduction of (p,q)-Calculus to q-Calculus"**  
+> **"A Reduction Algorithm for (p, q)-Calculus via Parameter Collapse to q-Calculus"**  
 > *Authors: Mehran Ghaderi, Shahram Rezapour*  
 > *Journal: Numerical Algorithms (Submitted)*
 
