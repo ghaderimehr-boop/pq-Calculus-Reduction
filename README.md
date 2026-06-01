@@ -9,9 +9,9 @@ This repository contains the **first complete implementation** of the (p,q)-gamm
 
 This code accompanies the paper:
 
-> **"A Reduction Algorithm for (p, q)-Calculus via Parameter Collapse to q-Calculus"**  
+> **"Parameter Collapse in $(p,q)$-Calculus: A Reduction Algorithm and Numerical Validation for Fractional Dynamical Models"**  
 > *Authors: Mehran Ghaderi, Shahram Rezapour*  
-> *Journal: Numerical Algorithms (Submitted)*
+> *Journal: Mathematics and Computers in Simulation (Submitted)*
 
 ## 🚀 Features
 
