@@ -11,7 +11,7 @@ This code accompanies the paper:
 
 > **"Parameter Collapse in $(p,q)$-Calculus: A Reduction Algorithm and Numerical Validation for Fractional Dynamical Models"**  
 > *Authors: Mehran Ghaderi, Shahram Rezapour*  
-> *Journal: Mathematics and Computers in Simulation (Submitted)*
+> *Journal: Journal of Inequalities and Applications (Submitted)*
 
 ## 🚀 Features
 
